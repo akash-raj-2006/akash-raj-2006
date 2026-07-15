@@ -1,5 +1,16 @@
-<h1 align="center">⚔️ AKASH — Founder & CEO, Ak's Dominance ⚔️</h1>
+<h1 align="center">⚔️ AKASH — Level 3 AI/ML Engineer ⚔️</h1>
 <h3 align="center">🎮 Class: AI/ML Engineer  |  🏫 Guild: Parul University  |  🧭 Region: Vadodara, Gujarat</h3>
+
+<p align="center"><i>🕹️ Choose Your Character</i></p>
+
+<table align="center">
+<tr>
+<td align="center">🥷<br><b>Sorcerer</b><br><sub>JJK-coded<br>Domain: DSA Grinding</sub></td>
+<td align="center">🔴<br><b>Trainer</b><br><sub>Pokémon GO<br>Catching 'em all in Vadodara</sub></td>
+<td align="center">🤖<br><b>AI Mage</b><br><sub>Gemini API Wielder<br>Casts GenAI spells</sub></td>
+<td align="center">🏗️<br><b>Builder Class</b><br><sub>React + Firebase<br>Full-stack architect</sub></td>
+</tr>
+</table>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Grinding+DSA+one+problem+a+day...;Building+GenAI+%2B+Full-Stack+Quests;Level+3+B.Tech+CSE+(AI%2FML)+%7C+2028+Graduate;Currently+Raiding%3A+FlowZint+AI+Hackathon" alt="Typing SVG" />
@@ -18,7 +29,6 @@
 
 ```yaml
 Player:        Akash
-Title:         Founder & CEO — Ak's Dominance
 Class:         B.Tech CSE (AI/ML)
 Guild:         Parul University, Vadodara
 Current Arc:   3rd Year — Semester 5
@@ -136,8 +146,11 @@ Side Hobbies:  Pokémon GO Trainer 🔴 | Jujutsu Kaisen Enjoyer 🌀
 
 <p align="center">
   <img src="https://img.shields.io/badge/Pok%C3%A9mon%20GO-Active%20Trainer-red?style=flat-square&logo=pokemon" />
-  <img src="https://img.shields.io/badge/Anime-Jujutsu%20Kaisen-6A0DAD?style=flat-square" />
+  <img src="https://img.shields.io/badge/Anime-Jujutsu%20Kaisen%20Enjoyer-6A0DAD?style=flat-square" />
+  <img src="https://img.shields.io/badge/Playstyle-Grind%20%26%20Ship-00C853?style=flat-square" />
 </p>
+
+<p align="center"><sub>🎮 Currently equipped: <b>Cursed Energy: Focus</b> · <b>Buff: Caffeine +10 INT</b> · <b>Passive: Debug Under Pressure</b></sub></p>
 
 ---
 
