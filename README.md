@@ -33,7 +33,6 @@ Class:         B.Tech CSE (AI/ML)
 Guild:         Parul University, Vadodara
 Current Arc:   3rd Year — Semester 5
 ETA to Endgame: August 2028
-Target Stats:  8.0+ CGPA | 15–25 LPA Placement Boss Fight
 Main Quest:    FlowZint AI Hackathon — FIFA World Cup 2026 Stadium Ops Platform
 Daily Grind:   4–5 DSA problems/day (Java) → 300–400 by Sem 7
 Side Hobbies:  Pokémon GO Trainer 🔴 | Jujutsu Kaisen Enjoyer 🌀
@@ -41,19 +40,10 @@ Side Hobbies:  Pokémon GO Trainer 🔴 | Jujutsu Kaisen Enjoyer 🌀
 
 ---
 
-## 📊 STAT BLOCK — XP Distribution
+## 📊 SKILL TREE
 
 <p align="center">
-
-| Skill | Level | Progress |
-|---|---|---|
-| 🧠 AI / GenAI (Gemini API, LLMs) | ⭐⭐⭐⭐☆ | ▓▓▓▓▓▓▓▓░░ 80% |
-| 💻 Java / DSA | ⭐⭐⭐☆☆ | ▓▓▓▓▓▓░░░░ 60% |
-| ⚛️ React.js / Firebase | ⭐⭐⭐⭐☆ | ▓▓▓▓▓▓▓▓░░ 80% |
-| 🟢 Node.js / Automation | ⭐⭐⭐☆☆ | ▓▓▓▓▓▓░░░░ 65% |
-| ☁️ Cloud (GCP Arcade) | ⭐⭐⭐⭐⭐ | ▓▓▓▓▓▓▓▓▓▓ 100% |
-| 🎨 3D / Three.js | ⭐⭐☆☆☆ | ▓▓▓▓░░░░░░ 40% |
-
+  🧠 AI / GenAI &nbsp;·&nbsp; 💻 Java &amp; DSA &nbsp;·&nbsp; ⚛️ React.js &amp; Firebase &nbsp;·&nbsp; 🟢 Node.js &nbsp;·&nbsp; ☁️ Google Cloud &nbsp;·&nbsp; 🎨 Three.js
 </p>
 
 ---
@@ -118,27 +108,17 @@ Side Hobbies:  Pokémon GO Trainer 🔴 | Jujutsu Kaisen Enjoyer 🌀
 ## 📈 LIVE STATS — Player Dashboard
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=akash-raj-2006&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash-raj-2006&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akash-raj-2006&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akash-raj-2006&theme=tokyo-night&hide_border=true" />
 </p>
-
----
-
-## 🎯 NEXT BOSS FIGHT
-
-```diff
-+ Target: Software Engineering / AI-ML Placement — 15–25 LPA
-+ Prep:   300–400 DSA problems | System Design | GenAI Projects Portfolio
-+ Arc:    Binary Search → Recursion → Linked List → Stacks/Queues → Hashing → Trees → Graphs → DP
-```
 
 ---
 
@@ -162,7 +142,7 @@ Side Hobbies:  Pokémon GO Trainer 🔴 | Jujutsu Kaisen Enjoyer 🌀
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=00F7FF&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=akash-raj-2006&label=Profile%20Views&color=00F7FF&style=flat-square" />
 </p>
 
 <p align="center"><i>"Grinding in silence, so the level-up speaks for itself."</i></p>
