@@ -17,14 +17,15 @@
 | [**ArenaMind**](https://github.com/akash-raj-2006/ArenaMind) | Real-time competitive quiz and knowledge intelligence platform • [Live Demo](https://arena-mind-rust.vercel.app) | Real-Time + Interactive Web |
 | [**DSA LeetCode**](https://github.com/akash-raj-2006/DSA_LeetCode_Questions) | Curated collection of LeetCode algorithmic solutions in Java for technical interviews | Java + Data Structures |
 
-<img src="./assets/id-dashboard.svg?v=3" width="100%" alt="Akash's builder ID and public telemetry dashboard. 150+ LeetCode problems, 9+ public repositories, 5+ shipped production projects. Featured project: ProjectRadar." />
+<img src="./assets/id-dashboard.svg?v=4" width="100%" alt="Akash's builder ID and public telemetry dashboard. 50+ LeetCode problems, 9+ public repositories, 5+ shipped production projects. Featured project: ProjectRadar." />
 
-<img src="./assets/connect.svg?v=3" width="100%" alt="Let's build what's next. Connect on GitHub, LinkedIn, Instagram, or via direct email dispatch." />
+<img src="./assets/connect.svg?v=4" width="100%" alt="Let's build what's next. Connect on GitHub, LinkedIn, Instagram, LeetCode, or via direct email dispatch." />
 
 <p align="center">
   <a href="https://github.com/akash-raj-2006">GitHub</a> &nbsp;·&nbsp;
-  <a href="https://linkedin.com/in/akash-raj-2006">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="https://instagram.com/">Instagram</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/akash-raj-purohit-2b3009394">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="https://leetcode.com/u/akashraj2006/">LeetCode</a> &nbsp;·&nbsp;
+  <a href="https://www.instagram.com/aka.8hh/?hl=en">Instagram</a> &nbsp;·&nbsp;
   <a href="mailto:akashrajpurohit2006@gmail.com">Email — akashrajpurohit2006@gmail.com</a>
 </p>
 
