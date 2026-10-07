@@ -1,11 +1,11 @@
 <!-- REDLINE v5 Architecture — Akash Rajpurohit (@akash-raj-2006) -->
 <p align="center">
-  <img src="./assets/hero.svg?v=1" width="100%" alt="Hi, I'm Akash Rajpurohit — CSE (AI/ML) Student • Developer • Builder at Parul University, Vadodara." />
+  <img src="./assets/hero.svg?v=3" width="100%" alt="Hi, I'm Akash Rajpurohit — CSE (AI/ML) Student • Developer • Builder at Parul University, Vadodara." />
 </p>
 
-<img src="./assets/about-life.svg?v=1" width="100%" alt="Core focus areas: AI/ML, DSA (Java), Full-Stack Web, Cloud & Automation, and Real-World Projects." />
+<img src="./assets/about-life.svg?v=3" width="100%" alt="Core focus areas: AI/ML, DSA (Java), Full-Stack Web, Cloud & Automation, and Real-World Projects." />
 
-<img src="./assets/stack.svg?v=1" width="100%" alt="My stack: Java, Python, TypeScript, React, Next.js, Node.js, Express, Google Cloud, Firebase, and Gemini API." />
+<img src="./assets/stack.svg?v=3" width="100%" alt="My stack: Java, Python, TypeScript, React, Next.js, Node.js, Express, Google Cloud, Firebase, and Gemini API." />
 
 ### 🚀 Things I've built
 
@@ -17,9 +17,9 @@
 | [**ArenaMind**](https://github.com/akash-raj-2006/ArenaMind) | Real-time competitive quiz and knowledge intelligence platform • [Live Demo](https://arena-mind-rust.vercel.app) | Real-Time + Interactive Web |
 | [**DSA LeetCode**](https://github.com/akash-raj-2006/DSA_LeetCode_Questions) | Curated collection of LeetCode algorithmic solutions in Java for technical interviews | Java + Data Structures |
 
-<img src="./assets/id-dashboard.svg?v=2" width="100%" alt="Akash's builder ID and public telemetry dashboard. 150+ LeetCode problems, 9+ public repositories, 5+ shipped production projects. Featured project: ProjectRadar." />
+<img src="./assets/id-dashboard.svg?v=3" width="100%" alt="Akash's builder ID and public telemetry dashboard. 150+ LeetCode problems, 9+ public repositories, 5+ shipped production projects. Featured project: ProjectRadar." />
 
-<img src="./assets/connect.svg?v=1" width="100%" alt="Let's build what's next. Connect on GitHub, LinkedIn, Instagram, or via direct email dispatch." />
+<img src="./assets/connect.svg?v=3" width="100%" alt="Let's build what's next. Connect on GitHub, LinkedIn, Instagram, or via direct email dispatch." />
 
 <p align="center">
   <a href="https://github.com/akash-raj-2006">GitHub</a> &nbsp;·&nbsp;
