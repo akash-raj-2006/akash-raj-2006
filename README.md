@@ -17,7 +17,7 @@
 | [**ArenaMind**](https://github.com/akash-raj-2006/ArenaMind) | Real-time competitive quiz and knowledge intelligence platform • [Live Demo](https://arena-mind-rust.vercel.app) | Real-Time + Interactive Web |
 | [**DSA LeetCode**](https://github.com/akash-raj-2006/DSA_LeetCode_Questions) | Curated collection of LeetCode algorithmic solutions in Java for technical interviews | Java + Data Structures |
 
-<img src="./assets/id-dashboard.svg?v=1" width="100%" alt="Akash's builder ID and public telemetry dashboard. 150+ LeetCode problems, 9+ public repositories, 5+ shipped production projects. Featured project: ProjectRadar." />
+<img src="./assets/id-dashboard.svg?v=2" width="100%" alt="Akash's builder ID and public telemetry dashboard. 150+ LeetCode problems, 9+ public repositories, 5+ shipped production projects. Featured project: ProjectRadar." />
 
 <img src="./assets/connect.svg?v=1" width="100%" alt="Let's build what's next. Connect on GitHub, LinkedIn, Instagram, or via direct email dispatch." />
 
